@@ -54,10 +54,10 @@ loop: False
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
 type-speed: 30
 start-delay: 200
-delete-delay: 5000
+delete-delay: 2000
 lines: # You can add HTML Tags in the Text
 
-  - text: "Everyone relax."
+  - text: "Everyone relax..."
   - text: "I'm a back-end web developer."
 
 

@@ -57,7 +57,7 @@ start-delay: 200
 delete-delay: 2000
 lines: # You can add HTML Tags in the Text
 
-  - text: "Everyone relax..."
+  - text: "I'm a back-end web developer."
   - text: "I'm a back-end web developer."
 
 
@@ -119,8 +119,8 @@ events:
     date: "September 1991 - May 1995"
     description: "BA Anthropolgy, magna cum laude, Vanderbilt University"
   - image: ""
-    date: "4.6 Billion Years Ago"
-    description: "The Earth Forms"
+    date: "4.6 Billion Years Ago - September 1991"
+    description: "The Earth Forms. Things happen."
 
 
 # First image of the Timeline
